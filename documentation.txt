@@ -1,2 +1,4 @@
-step:1
+step:1 
+    for create laravel projects command are used  composer create-project --prefer-dist laravel/laravel project_name
+    
 step :2
